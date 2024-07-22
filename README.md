@@ -1,1 +1,3 @@
 # Calculator-2
+It is a Project which perform  Arithmetic Operations like addition ,subtraction,division and many more. It is builded by making use of HTML,CSS and JavaScript.It gives you a look of the real calculator instead of the virtual calculator.
+It is styled using CSS which gives to the feel of the real one. For better knowledge of project have an eye on the project. Thank You...
